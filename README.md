@@ -1,4 +1,4 @@
-# One-tap-Widget-
+# One-tap-Fidget-
 Hey there!.
 
 This is a simple program made in Processing3 IDE using JAVA.
