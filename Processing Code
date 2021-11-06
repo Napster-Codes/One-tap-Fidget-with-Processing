@@ -4,7 +4,7 @@ void setup()
 {
 size(300,300);
 b=0;
-f=225;
+f=125;
 }
 
 void draw()
@@ -18,12 +18,12 @@ void mousePressed()
 {
 if(b==0)
 {
-b=225;
+b=125;
 f=0;
 }
 else
 {
 b=0;
-f=225;
+f=125;
 }
 }
